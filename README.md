@@ -7,6 +7,7 @@ This is a variant of that utility, that compiles under Windows and can utilize t
 of the local machine to draw and convert them to ascii banners.
 
 ![Hello world](assets/helloworld.png)
+
 You can also call it multiple times to create screens with different fonts.
 
 ![Multiple fonts](assets/multiplefonts.png)
